@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+D:\17.83.0087\jfsp2\.metadata\.plugins\org.eclipse.jdt.core
