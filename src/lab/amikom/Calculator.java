@@ -17,14 +17,13 @@ public class Calculator {
 				int add = a + b;
 				System.out.println("Hasil Penjumlahan = "+add);
 				
-<<<<<<< HEAD
-				int sup = a*b;
-				System.out.println("Hasil Perkalian ="+sup );
-=======
+
+	
+
 				int sub = a - b;
 				System.out.println("Hasil Pengurangan = "+sub);
 
->>>>>>> 3b312808a7282e8ff7446dfd94f98946b1dbd6ff
+
 			}
 
 }
